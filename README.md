@@ -1,5 +1,7 @@
 API created with Node, Express, MongoAtlas and deployed with Heroku for PROG34014 Assignment 4
-By Caitlin Rush, 991534296
+
+
+**By Caitlin Rush, 991534296**
 
 ## RESPONSE CODES
 
