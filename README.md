@@ -1,7 +1,7 @@
-# A4-API
 API created with Node, Express, MongoAtlas and deployed with Heroku for PROG34014 Assignment 4
+By Caitlin Rush, 991534296
 
-## Response Codes
+## RESPONSE CODES
 
 | Code | Meaning |
 | ------------- |:-------------|
@@ -11,7 +11,7 @@ API created with Node, Express, MongoAtlas and deployed with Heroku for PROG3401
 | `500 Internal Server Error` | An internal error occurred on the server side
 | `501 Not Implemented` | The requested endpoint is currently not available, but may be implemented in the future
 
-## End Points
+## ENDPOINTS
 
 ### View All Items
 | Endpoint | /api/items
