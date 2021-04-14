@@ -3,6 +3,8 @@ API created with Node, Express, MongoAtlas and deployed with Heroku for PROG3401
 
 **By Caitlin Rush, 991534296**
 
+Link: https://sheltered-inlet-69987.herokuapp.com/
+
 ---------------------------------
 
 ## RESPONSE CODES
