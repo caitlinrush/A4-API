@@ -19,28 +19,28 @@ Link: https://sheltered-inlet-69987.herokuapp.com/
 
 ## ENDPOINTS
 
-###### View All Items
+#### View All Items
 | Endpoint | /api/items
 | ------------- |:-------------|
 | *Request Type* | GET
 
-###### View a Single Item
+#### View a Single Item
 | Endpoint | /api/items/:item_name
 | ------------- |:-------------|
 | *Request Type* | GET
 
-###### Add a New Item
+#### Add a New Item
 | Endpoint | /api/items
 | ------------- |:-------------|
 | *Request Type* | POST
 | *Request Body* | A JSON object containing the data that should be added to the API's data store
 
-###### Delete an Item
+#### Delete an Item
 | Endpoint | /api/items/:item_name
 | ------------- |:-------------|
 | *Request Type* | DELETE
 
-###### Update an Item
+#### Update an Item
 | Endpoint | /api/items/:item_id
 | ------------- |:-------------|
 | *Request Type* | PUT
