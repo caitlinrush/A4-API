@@ -7,4 +7,5 @@ API created with Node, Express, MongoAtlas and deployed with Heroku for PROG3401
 | ------------- |:-------------:|
 | 200 OK | The request was successful 
 | 201 Created | The request was fulfilled 
-| 404 Not Found | The requested resource could not be found. \n*Examples include: * The requested endpoint does not exist * The item the user requested information about could not be found in the database*
+| 404 Not Found | The requested resource could not be found. 
+*Examples include: * The requested endpoint does not exist * The item the user requested information about could not be found in the database* |
