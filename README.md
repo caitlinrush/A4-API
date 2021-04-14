@@ -19,28 +19,28 @@ API created with Node, Express, MongoAtlas and deployed with Heroku for PROG3401
 
 ### View All Items
 | Endpoint | /api/items
-| ------------- |-------------|
+| ------------- |:-------------|
 | Request Type | GET
 
 ### View a Single Item
 | Endpoint | /api/items/:item_name
-| ------------- |-------------|
+| ------------- |:-------------|
 | Request Type | GET
 
 ### Add a New Item
 | Endpoint | /api/items
-| ------------- |-------------|
+| ------------- |:-------------|
 | Request Type | Post
 | Request Body | A JSON object containing the data that should be added to the API's data store
 
 ### Delete an Item
 | Endpoint | /api/items/:item_name
-| ------------- |-------------|
+| ------------- |:-------------|
 | Request Type | Delete
 
 ### Update an Item
 | Endpoint | /api/items/:item_id
-| ------------- |-------------|
+| ------------- |:-------------|
 | Request Type | PUT
 
 
