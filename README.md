@@ -1,4 +1,4 @@
-API created with Node, Express, MongoAtlas and deployed with Heroku for PROG34014 Assignment 4
+API created with Node, Express, MongoAtlas and deployed with Heroku for PROG34104 Assignment 4
 
 
 **By Caitlin Rush, 991534296**
