@@ -8,7 +8,7 @@ API created with Node, Express, MongoAtlas and deployed with Heroku for PROG3401
 ## RESPONSE CODES
 
 | Code | Meaning |
-| ------------- |:-------------|
+| ------------------- |:-------------|
 | `200 OK` | The request was successful 
 | `201 Created` | The request was fulfilled 
 | `404 Not Found` | The requested resource could not be found because either it does not exist or the requested item could not be found in the database
